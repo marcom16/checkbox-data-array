@@ -1,0 +1,21 @@
+body {
+	padding-top: 65px;
+	background-color: #eee;
+}
+
+#form_create {
+	padding: 15px;
+	border-radius: 1%;
+	border: 1px solid #000;
+}
+
+#form_confirm {
+	padding: 15px;
+	border-radius: 1%;
+	border: 1px solid #000;
+}
+
+.list-group-item label {
+	margin-bottom: 0px;
+	cursor: pointer;
+}
