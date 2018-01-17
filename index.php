@@ -13,12 +13,13 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Form</title>
+	<title>Checkbox Data Array</title>
 	<base href="/">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./assets/css/app.css">
 	<script src="https://use.fontawesome.com/e7cf633633.js"></script>
+	<link rel="shortcut icon" type="image/png" href="http://www.favicon.cc/logo3d/912554.png"/>
 </head>
 	<div class="container">
 		<div class="jumbotron">
